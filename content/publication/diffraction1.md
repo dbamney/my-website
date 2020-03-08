@@ -2,7 +2,7 @@
 title = "Virtual Diffraction Analysis of Dislocations and Dislocation Networks in Discrete Dislocation Dynamics Simulations"
 
 # Date first published.
-date = "2020-1-3"
+date = "2020-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
