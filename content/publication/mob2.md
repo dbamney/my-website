@@ -2,7 +2,7 @@
 title = "Mobility of Dislocations in Aluminum: The Role of Non-Schmid Stress State"
 
 # Date first published.
-date = "2020-02-15"
+date = "2020-15-02"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
