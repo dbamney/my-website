@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Katherine Kempfert
+name: Darshan Bamney
 
 # Username (this should match the folder name)
 authors:
@@ -10,30 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: First Year PhD Student in Statistics
+role: PhD candidate in Materials Science and Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: University of California Berkeley
-  url: "https://statistics.berkeley.edu/"
+- name: University of Florida
+  url: "https://mae.ufl.edu/dspearot/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include statistical machine learning methods for applied problems. 
+bio: I specialize in computational modeling of defect-mediated mechanical behavior of materials. 
 
 interests:
-- Statistical Machine Learning
-- Applied & Computational Statistics
-- High-dimensional data
+- Computational Solid Mechanics
+- Computational Defect Mechanics
 
 education:
   courses:
-  - course: PhD in Statistics
-    institution: University of California Berkeley
-    year: August 2019 - present
-  - course: BS in Statistics and Mathematics
+  - course: PhD in Materials Science and Engineering
     institution: University of Florida
-    year: May 2019
-
+    year: June 2017 - present
+  - course: MS in Materials Science and Engineering
+    institution: University of Florida
+    year: May 2017
+  - course: BE in Mechanical Engineering
+    institution: M. S. Ramaiah Institute of Technology
+    year: May 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,10 +43,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:kempfert@berkeley.edu'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:darshan.bamney@ufl.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=en&user=7iF-KPQAAAAJ
+  link: https://scholar.google.com/citations?user=LQw5w-UAAAAJ&hl=en&oi=ao
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/kkempfert
@@ -65,10 +66,8 @@ user_groups:
 - Visitors
 ---
 
-I am a first year PhD student in [statistics at the University of California Berkeley](https://statistics.berkeley.edu/). My research interests involve using statistical machine learning methods to address applied problems. 
+I am a third year PhD student in [materials science and engineering at the University of Florida](https://mse.ufl.edu/). My research is focused on understanding the mechanical behavior of metals using advanced computational techniques.
 
-Previously, I double majored in [mathematics](https://math.ufl.edu/) and [statistics at the University of Florida](https://stat.ufl.edu/). My undergraduate [research projects](#projects) in statistics had applications in areas ranging from computer vision to classical music, as well as public health.  
-
-Outside of statistics, my personal interests and hobbies include music, art, hiking, and spending time with my cats. 
+Outside of work, my personal interests and hobbies include martial arts, movies, hiking, and spending time with my cats. 
 
 
