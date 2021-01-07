@@ -112,7 +112,7 @@ contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
 #  {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-#  {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
+  {icon = "linkedin", icon_pack = "fab", name = "Message on LinkedIn", link = "https://www.linkedin.com/in/dbamney/"},
    {icon = "google-scholar", icon_pack = "ai", name = "Visit on Google Scholar", link = "https://scholar.google.com/citations?user=LQw5w-UAAAAJ&hl=en&oi=ao"},
   ]
 
@@ -185,6 +185,17 @@ plugins_js  = []
 
 # Configuration of project pages.
 [projects]
+  # Views for associated content.
+  #   1: List
+  #   2: Compact
+  #   3: Card
+  #   4: Citation (publications only)
+  post_view = 2
+  publication_view = 2
+  talk_view = 2
+  
+# Configuration of project pages.
+[projects2]
   # Views for associated content.
   #   1: List
   #   2: Compact
