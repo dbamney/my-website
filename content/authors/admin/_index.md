@@ -21,8 +21,10 @@ organizations:
 bio: I specialize in computational modeling of defect-mediated mechanical behavior of materials. 
 
 interests:
-- Computational Solid Mechanics
-- Computational Defect Mechanics
+- Structural materials
+- Computational solid mechanics
+- Multiscale modeling of materials
+- Structure-property relationships
 
 education:
   courses:
@@ -33,7 +35,7 @@ education:
     institution: University of Florida
     year: May 2017
   - course: BE in Mechanical Engineering
-    institution: M. S. Ramaiah Institute of Technology
+    institution: M. S. Ramaiah Institute of Technology (India)
     year: May 2015
 
 # Social/Academic Networking
@@ -47,6 +49,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LQw5w-UAAAAJ&hl=en&oi=ao
+- icon: linkedin
+  icon_pack: ai
+  link: https://www.linkedin.com/in/dbamney/
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/kkempfert
@@ -66,8 +71,8 @@ user_groups:
 - Visitors
 ---
 
-I am a third year PhD student in [materials science and engineering at the University of Florida](https://mse.ufl.edu/). My research is focused on understanding the mechanical behavior of metals using advanced computational techniques.
+I am a fourth year PhD student in [materials science and engineering at the University of Florida](https://mse.ufl.edu/). My research is focused on understanding the mechanical behavior of metals using advanced computational techniques. During my PhD, I have developed frameworks and tools for physically representative modeling and characterization of plasticity in metals.
 
-Outside of work, my personal interests and hobbies include martial arts, movies, hiking, and spending time with my cats. 
+Outside of work, my personal interests and hobbies include martial arts, toying with building blocks, movies, hiking, biking, and spending time with my cats. 
 
 

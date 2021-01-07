@@ -18,23 +18,127 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Computational Modeling of Defect Mechanics at the Mesoscale"
-  company = "University of Florida & Los Alamos National Laboratory"
+  title = "Graduate Research Assistant"
+  company = "University of Florida"
   company_url = "https://mae.ufl.edu/dspearot/research.html"
-  location = "Advisors: Dr. Douglas Spearot, Dr. Laurent Capolungo"
+  location = "Gainesville, Florida"
   date_start = "2017-06-01"
-  date_end = "2021-06-01"
+  date_end = "2021-08-01"
   description = """
   
-  **Research Objectives** - The objective of this research is to develop a multiscale simulation approach to study dislocation – grain boundary interactions and to employ this approach to advance criteria for slip transfer across grain boundaries to consider the grain boundary damage state. In addition, the proposed simulation approach will allow for an analysis of the role of dislocation core structures on slip transfer. 
+  **Advisor**: Dr. Douglas E. Spearot
+  **Research Area**: Mesoscale Modeling of Defect-Mediated Plasticity in Metals
   
-  **Research Outcomes**:
-  * Implemented atomistically-derived Al dislocation mobility laws into discrete dislocation dynamics (DDD) model to accurately characterize the role of dislocation core structure on the kinetics of dislocation slip.
+  Developed and implemented frameworks and tools for the discrete dislocation dynamics (DDD) simulation method to investigate dislocation-mediated plasticity in metals.
+  * Developed and implemented virtual x-ray diffraction (XRD) algorithms for generating line profiles from dislocation microstructures obtained using DDD
   
+  * Generated virtual XRD line profile databases for aluminum, tantalum, and iron, which have been used to train machine learning models to quantify dislocation densities from experimentally measured XRD profiles
   
-  * Developed and implemented virtual x-ray diffraction tools for the characterization of dislocation-induced strain broadening in plastically deformed microstructures.
+  * Implemented atomistically-derived dislocation mobility laws to accurately characterize the role of dislocation core structure on the kinetics of dislocation slip and the evolution of dislocation networks
   
+  * Developed and implemented a framework for modeling equilibrium and non-equilibrium grain boundary structures in DDD, which has been used to gain new insights into the influence of intergranular stresses on dislocation slip transmission in aluminum
+  
+  * Parallelized algorithms for improved efficiency on high performance computing clusters
     """
+    
+ [[experience]]
+  title = "Visiting Scientist"
+  company = "Los Alamos National Laboratory"
+  location = "Los Alamos, New Mexico"
+  date_start = "2018-05-01"
+  date_end = "2019-08-01"
+  description = """
+  
+  **Host/Mentor**: Dr. Laurent Capolungo
+  
+   Collaborated with postdoctoral researchers and staff scientists in the Materials Science in Radiation and Dynamics Extremes group at Los Alamos National Laboratory on the development of algorithms and methods for discrete dislocation dynamics.
+   """  
+   
+  [[experience]]
+  title = "Student Researcher"
+  company = "University of Florida"
+  location = "Gainesville, Florida"
+  date_start = "2016-08-01"
+  date_end = "2017-05-01"
+  description = """
+  
+  **Mentor**: Dr. Bhavani Sankar
+  
+   Analyzed the biaxial flexural deformation behavior of hydroxyapatite-polysulfone laminated composites using the finite element method. Simulated and analyzed stress distributions in laminates with different layer thickness ratios to identify the influence of layer thicknesses on the principal tensile and the interlaminar shear stresses, which determine the load bearing capacity of the composite.
+   """  
+   
+title = "Industry Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+   
+  [[experience]]
+  title = "Foundry Engineering Intern"
+  company = "Federal Mogul-Powertrain"
+  location = "South Bend, Indiana"
+  date_start = "2016-04-01"
+  date_end = "2016-08-01"
+  description = """
+  
+  Assisted managers and engineers at the foundry in Federal Mogul-Powertrain’s South Bend plant on several key projects
+  * Performed start-up curve analyses to investigate and validate the reliability of the aluminum piston casting process in the foundry
+  * Assessed, organized, and inventoried casting die components, and developed a die database
+  * Designed and performed experiments to improve the ladle coating process and developed standard operating instructions to reduce scrap due to oxide and improve overall quality of cast aluminum pistons
+   """  
+   
+title = "Teaching Experience"
+subtitle = ""
+
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
+
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+   
+  [[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "University of Florida"
+  location = "Gainesville, Florida"
+  date_start = "2018-01-01"
+  date_end = "2018-12-30"
+  description = """
+  
+  Assisted instructors for:
+  * EMA6136: Diffusion, Kinetics, and Transport Phenomena
+  
+  * EMA3010/EMA6001: Properties of Materials
+  
+  Responsibilities included:
+  * Assisting in designing and grading coursework, assignments, quizzes, projects, and exams for two graduate courses (diffusion, kinetics, and phase transformations and introduction to materials) with up to 80 students
+  
+  * Administering course content using e-learning technologies (Canvas and WileyPLUS)
+  
+  * Providing additional support through office hours and review sessions
+"""
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "University of Florida"
+  location = "Gainesville, Florida"
+  date_start = "2017-01-01"
+  date_end = "2017-05-01"
+  description = """
+  
+  Assisted instructor in designing and grading assignments, quizzes, and exams for EML4507: Finite Element Analysis and Design
+  
+"""
 
 [design.background]
   # Apply a background color, gradient, or image.
