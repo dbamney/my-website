@@ -34,7 +34,6 @@ date_format = "Jan 2006"
     
   * EML4507: Finite Element Analysis and Design (Spring 2017)
   
-  &nbsp
   
   Responsibilities included:
   * Assisting in designing and grading coursework, assignments, quizzes, projects, and exams

@@ -28,8 +28,7 @@ date_format = "Jan 2006"
   
   **Advisor**: Dr. Douglas E. Spearot
   
-  &nbsp
-  
+    
   **Research Area**: Mesoscale Modeling of Defect-Mediated Plasticity in Metals
   
   Developed and implemented frameworks and tools for the discrete dislocation dynamics (DDD) simulation method to investigate dislocation-mediated plasticity in metals.
@@ -69,8 +68,7 @@ date_format = "Jan 2006"
   
    Analyzed the biaxial flexural deformation behavior of hydroxyapatite-polysulfone laminated composites using the finite element method. 
    
-   &nbsp  
-   
+    
    * Simulated and analyzed stress distributions in laminates with different layer thickness ratios to identify the influence of layer thicknesses on the principal tensile and the interlaminar shear stresses, which determine the load bearing capacity of the composite.
    """  
 
