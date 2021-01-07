@@ -1,6 +1,6 @@
 +++
 # Teaching experience widget.
-widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
@@ -52,8 +52,8 @@ date_format = "Jan 2006"
   color = "navy"
   
   # Background gradient.
-  gradient_start = "LightSkyBlue"
-  gradient_end = "White"
+  gradient_end = "LightSkyBlue"
+  gradient_start = "White"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

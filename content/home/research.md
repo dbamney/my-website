@@ -1,6 +1,6 @@
 +++
 # Research experience widget.
-widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://mae.ufl.edu/dspearot/research.html"
   location = "Gainesville, Florida"
   date_start = "2017-06-01"
-  date_end = "2021-08-01"
+  date_end = ""
   description = """
   
   **Advisor**: Dr. Douglas E. Spearot
