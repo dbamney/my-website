@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Research Experience"
-subtitle = ""
+title = "Experience"
+subtitle = "Research Experience"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -67,8 +67,7 @@ date_format = "Jan 2006"
    Analyzed the biaxial flexural deformation behavior of hydroxyapatite-polysulfone laminated composites using the finite element method. Simulated and analyzed stress distributions in laminates with different layer thickness ratios to identify the influence of layer thicknesses on the principal tensile and the interlaminar shear stresses, which determine the load bearing capacity of the composite.
    """  
    
-title = "Industry Experience"
-subtitle = ""
+subtitle = "Industry Experience"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -94,8 +93,7 @@ date_format = "Jan 2006"
   * Designed and performed experiments to improve the ladle coating process and developed standard operating instructions to reduce scrap due to oxide and improve overall quality of cast aluminum pistons
    """  
    
-title = "Teaching Experience"
-subtitle = ""
+subtitle = "Teaching Experience"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
