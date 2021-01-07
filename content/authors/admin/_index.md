@@ -50,7 +50,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?user=LQw5w-UAAAAJ&hl=en&oi=ao
 - icon: linkedin
-  icon_pack: ai
+  icon_pack: fab
   link: https://www.linkedin.com/in/dbamney/
 #- icon: github
 #  icon_pack: fab
