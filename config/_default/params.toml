@@ -184,7 +184,7 @@ plugins_js  = []
   citation_style = "apa"
 
 # Configuration of project pages.
-[projects]
+[research]
   # Views for associated content.
   #   1: List
   #   2: Compact
@@ -195,7 +195,7 @@ plugins_js  = []
   talk_view = 2
   
 # Configuration of project pages.
-[projects2]
+[teaching]
   # Views for associated content.
   #   1: List
   #   2: Compact
