@@ -20,14 +20,14 @@ author = "admin"
   #   Any HTML color name or Hex value is valid.
     
   # Background color.
-  color = "cyan"
+  #color = "cyan"
   
   # Background gradient.
-  gradient_start = "LightSkyBlue"
-  gradient_end = "White"
+  #gradient_start = "LightSkyBlue"
+  #gradient_end = "White"
   
   # Background image.
-  # image = "background.jpg"  # Name of image in `static/img/`.
+   image = "background.jpg"  # Name of image in `static/img/`.
   # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
