@@ -2,7 +2,7 @@
 title = "Data-Driven Analysis of Neutron Diffraction Line Profiles: Application to Plastically Deformed Ta"
 
 # Date first published.
-date = "2021"
+date = "2021-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 
