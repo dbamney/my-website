@@ -34,6 +34,8 @@ date_format = "Jan 2006"
     
   * EML4507: Finite Element Analysis and Design (Spring 2017)
   
+  &nbsp
+  
   Responsibilities included:
   * Assisting in designing and grading coursework, assignments, quizzes, projects, and exams
   
@@ -52,8 +54,8 @@ date_format = "Jan 2006"
   color = "navy"
   
   # Background gradient.
-  gradient_end = "LightSkyBlue"
-  gradient_start = "White"
+  gradient_start = "LightSkyBlue"
+  gradient_end = "White"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

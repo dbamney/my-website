@@ -23,8 +23,8 @@ author = "admin"
   color = "cyan"
   
   # Background gradient.
-  gradient_end = "LightSkyBlue"
-  gradient_start = "White"
+  gradient_start = "LightSkyBlue"
+  gradient_end = "White"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.

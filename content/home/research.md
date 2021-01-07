@@ -23,10 +23,13 @@ date_format = "Jan 2006"
   company_url = "https://mae.ufl.edu/dspearot/research.html"
   location = "Gainesville, Florida"
   date_start = "2017-06-01"
-  date_end = ""
+  date_end = "2021-08-01"
   description = """
   
   **Advisor**: Dr. Douglas E. Spearot
+  
+  &nbsp
+  
   **Research Area**: Mesoscale Modeling of Defect-Mediated Plasticity in Metals
   
   Developed and implemented frameworks and tools for the discrete dislocation dynamics (DDD) simulation method to investigate dislocation-mediated plasticity in metals.
@@ -64,7 +67,11 @@ date_format = "Jan 2006"
   
   **Mentor**: Dr. Bhavani Sankar
   
-   Analyzed the biaxial flexural deformation behavior of hydroxyapatite-polysulfone laminated composites using the finite element method. Simulated and analyzed stress distributions in laminates with different layer thickness ratios to identify the influence of layer thicknesses on the principal tensile and the interlaminar shear stresses, which determine the load bearing capacity of the composite.
+   Analyzed the biaxial flexural deformation behavior of hydroxyapatite-polysulfone laminated composites using the finite element method. 
+   
+   &nbsp  
+   
+   * Simulated and analyzed stress distributions in laminates with different layer thickness ratios to identify the influence of layer thicknesses on the principal tensile and the interlaminar shear stresses, which determine the load bearing capacity of the composite.
    """  
 
 [design.background]
@@ -77,8 +84,8 @@ date_format = "Jan 2006"
   color = "navy"
   
   # Background gradient.
-  gradient_start = "LightSkyBlue"
-  gradient_end = "White"
+  gradient_end = "LightSkyBlue"
+  gradient_start = "White"
   
   # Background image.
   # image = "background.jpg"  # Name of image in `static/img/`.
