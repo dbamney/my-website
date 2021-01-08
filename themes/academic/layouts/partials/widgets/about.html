@@ -76,6 +76,7 @@
     <div class="row">
 
       {{ with $person.interests }}
+      <div class="boxed">
       <div class="col-md-5">
         <h3>{{ i18n "interests" | markdownify }}</h3>
         <ul class="ul-interests">
@@ -84,9 +85,11 @@
           {{ end }}
         </ul>
       </div>
+      </div>
       {{ end }}
 
       {{ with $person.education }}
+      <div class="boxed">
       <div class="col-md-7">
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
@@ -100,6 +103,7 @@
           </li>
           {{ end }}
         </ul>
+      </div>
       </div>
       {{ end }}
 
